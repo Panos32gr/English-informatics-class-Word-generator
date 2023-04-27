@@ -1,0 +1,15 @@
+Update = Αναβάθμιση
+Mousepad = Μαξιλαράκι ποντικιού
+Cooler = Ψύκτρα
+Mouse = Ποντίκι
+GUI(graphics user interface) = Διεπαφή χρήστη με γραφικά
+Fiber = Ίνα
+TDP(thermal design power = Σημείο Θερμικής σχεδίασης*
+Wireless = Ασύρματο
+Expansion Card = Κάρτα Επέκτασης
+Compress/Zip = Συμπίεση αρχειου
+Browser = Φυλλομετρητής
+Token = Κουπόνι
+Distribute = Διανέμω
+Keyboard = Πληκτρολόγιο
+Access point = Σημείο πρόσβασης
